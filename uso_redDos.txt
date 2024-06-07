@@ -1,4 +1,4 @@
-Marca de Tiempo, Mbps Enviados, Mbps Recibidos
+Marca de Tiempo,Mbps Enviados,Mbps Recibidos
 12:53:53,0.05,0.10
 12:53:54,0.00,0.09
 12:53:55,0.05,0.21
